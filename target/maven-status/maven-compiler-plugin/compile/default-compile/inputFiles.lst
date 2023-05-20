@@ -1,0 +1,13 @@
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/service/ExchangeService.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/dto/SBSDollarValue.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/dto/OperationRequest.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/sender/SBSDollarSender.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/JwtDemoApplication.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/validations/CurrencyValid.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/service/ExchangeServiceImpl.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/validations/CurrencyValidator.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/dto/JWTToken.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/dto/OperationResponse.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/security/JWTAuthorizationFilter.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/controller/JWTTokenController.java
+/Users/hedu09/Documents/jwt-demo/src/main/java/efcparedes/jwtdemo/controller/ExchangeController.java
